@@ -1,4 +1,4 @@
-package com.jackiew.jdk.encryption;
+package com.jackiew.jdk.encryption.md5;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

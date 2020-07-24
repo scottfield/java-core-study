@@ -1,4 +1,4 @@
-package com.jackiew.jdk.encryption;
+package com.jackiew.jdk.encryption.des;
 
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidKeyException;
